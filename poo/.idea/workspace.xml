@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3b3de7-aa1e-4ba9-b4fb-7b6409c98f38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/entities/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/AparelhoTelefonico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/NavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/ReprodutorMusical.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e3b3de7-aa1e-4ba9-b4fb-7b6409c98f38" name="Changes" comment="iphone entity commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -63,6 +59,37 @@
       <option name="presentableId" value="Default" />
       <updated>1753390640960</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1753391650374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753391650375</updated>
+    </task>
+    <task id="LOCAL-00002" summary="interfaces commit">
+      <option name="closed" value="true" />
+      <created>1753391667748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753391667748</updated>
+    </task>
+    <task id="LOCAL-00003" summary="iphone entity commit">
+      <option name="closed" value="true" />
+      <created>1753391705367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753391705367</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="interfaces commit" />
+    <MESSAGE value="iphone entity commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="iphone entity commit" />
   </component>
 </project>
